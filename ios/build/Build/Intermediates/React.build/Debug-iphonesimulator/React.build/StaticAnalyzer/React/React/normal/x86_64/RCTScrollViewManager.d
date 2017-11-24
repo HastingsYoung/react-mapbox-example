@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Views/RCTScrollViewManager.m \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Views/RCTScrollViewManager.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/hastings/git/centrality-map/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/hastings/git/centrality-map/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/hastings/git/centrality-map/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Views/RCTScrollView.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Views/RCTScrollableProtocol.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Views/RCTView.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/hastings/git/centrality-map/node_modules/react-native/React/Modules/RCTUIManager.h
