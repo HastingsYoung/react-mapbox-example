@@ -1,4 +1,12 @@
 # An Example of How to Combine React/Redux with Mapbox API
+## Screenshots
+<img src="https://github.com/HastingsYoung/react-mapbox-example/raw/master/screenshots/centrality-map.gif" alt="Map Screenshot" width="378" height="694"/>
+
+## Features
+1. React/Redux
+2. Auto complete support
+3. Turn by turn routing
+
 ## Usage
 1. Clone to your local repo:
 ```sh
