@@ -5,7 +5,9 @@
 ## Features
 1. React/Redux
 2. Auto complete support
-3. Turn by turn routing
+3. Input box typing debouncing
+4. Turn by turn routing
+5. Airbnb maps connected
 
 ## Usage
 1. Clone to your local repo:
